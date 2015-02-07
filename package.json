@@ -1,0 +1,27 @@
+{
+  "name": "BinaryCrypto",
+  "description": "nodeJs Crypto modules",
+  "version": "0.0.2",
+  "author": "hanqingnan <hanqingnan831103@gmail.com>",
+  "repository": "hanqingnan/BinaryCrypto",
+  "keywords": [
+    "crypto",
+    "binary",
+    "feistel",
+    "app",
+    "api"
+  ],
+  "dependencies": {
+    "underscore":"1.6.0",
+    "q":"1.0.1"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "files": [
+    "README.md",
+    "lib/"
+  ]
+}
